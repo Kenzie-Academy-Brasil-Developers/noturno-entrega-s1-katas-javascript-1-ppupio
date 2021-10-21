@@ -105,7 +105,7 @@ function evenNumbersBackwards() {
    return evensi
    
 }
-console.log (countingBackwards())
+console.log (evenNumbersBackwards())
 //call function evenNumbersBackwards
 
 function oddNumbersBackwards() {
